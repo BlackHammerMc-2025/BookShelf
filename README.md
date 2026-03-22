@@ -1,4 +1,5 @@
 # Artemis
 
+![funny](https://github.com/user-attachments/assets/01e43325-af3a-4c79-ba4a-7452138ea230)
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/6f65c290-4414-4732-a060-6e605956db79" />
+
