@@ -1,2 +1,3 @@
 # Artemis
-The Minecraft server named Artemis, devoloped by BlackHammerMC
+
+https://tenor.com/view/funny-gif-1663639430082646484
