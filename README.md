@@ -1,4 +1,4 @@
-# Artemis
+# 🚀 Artemis
 ### General
 
 If you are seeing this, you probably joined the server Artemis! The free to play server with just one rule, and that is no doxxing. You can do almost anything you want, like griefing, fighting, or cheating on this server without the fear of being doxxed. 
@@ -6,7 +6,7 @@ If you are seeing this, you probably joined the server Artemis! The free to play
 
 ---
 
-### More about how we use **your data**: 
+### 📊 More about how we use **your data**: 
 We do keep logs accessible to our dev, but after we stop and restart the server every few days... 
 your data is un-recoverable. We also do not log IP, as we also follow the no doxx rule!
 
@@ -14,7 +14,7 @@ your data is un-recoverable. We also do not log IP, as we also follow the no dox
 
 ---
 
-### How to Join
+### 🎮 How to Join
 
 1. Open Java minecraft
 2. Go to the multiplayer tab
@@ -28,7 +28,7 @@ your data is un-recoverable. We also do not log IP, as we also follow the no dox
 
 ---
 
-### Why this was made
+### 🤔 Why this was made
 
 I made it by myself because I was sick of high ping on servers I could get doxxed on, I still own and maintain both Artemis, BlackHammerMC, and another project. I also just wanted to play with my friends, but some people do not have the materials, or knowledge like me to do the same. That is why this server exists and is public. 
 
@@ -36,7 +36,7 @@ I made it by myself because I was sick of high ping on servers I could get doxxe
 
 ---
 
-### Behind the scenes
+### 🎦 Behind the scenes
 
 The server is so dead simple, a dell optiplex with a laptop fan/stand stuck on the side, that runs Linux Mint XFCE.
 https://www.linuxmint.com/edition.php?id=327 
@@ -49,6 +49,8 @@ https://fabricmc.net/
 https://modrinth.com/
 
 <img width="52" height="56" alt="logo" src="https://github.com/user-attachments/assets/911aa095-a43b-475d-9927-b26208a1fb5c" />
+
+
 
 
 
