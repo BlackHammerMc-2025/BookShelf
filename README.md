@@ -50,10 +50,10 @@ https://modrinth.com/
 
 <img width="52" height="56" alt="logo" src="https://github.com/user-attachments/assets/911aa095-a43b-475d-9927-b26208a1fb5c" />
 
+---
 
+### 👥 Community
 
+We encourage you to share your thoughts, comments, and screenshots about the server at the discussion category of this github page! You can do this by scrolling up, and clicking discussion.
 
-
-
-
-
+Hint: We are looking for more things to add to this page here.
