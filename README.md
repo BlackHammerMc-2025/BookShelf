@@ -15,7 +15,7 @@ your data is un-recoverable. We also do not log IP, as we also follow the no dox
 1. Open Java minecraft
 2. Go to the multiplayer tab
 3. Press add server
-4. Enter the address as been-nightlife.gl.joinmc.link exactly
+4. Enter the address as _**been-nightlife.gl.joinmc.link**_ exactly
 5. Press the done button
 
 **Congrats!** you can now join our server, from your server list!
