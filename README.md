@@ -1,6 +1,3 @@
-
-![cat](https://github.com/user-attachments/assets/63f56951-d6ff-4705-bbfe-81c86e2b05f4)
-
 # Artemis
 ### The BlackHammerMC Network
 
