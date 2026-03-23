@@ -62,3 +62,10 @@ https://modrinth.com/
 We encourage you to share your thoughts, comments, and screenshots about the server at the discussion category of this github page! You can do this by scrolling up, and clicking discussion.
 
 Hint: We are looking for more things to add to this page here.
+
+---
+
+### 🗣️ Shout Outs
+
+Thank you \_JavaJuice_ for being the pre-alpha, and main tester for the server.
+Thank you ItzVoru, sidthesquid13, hypo133, and ReelyCoolDude for being beta testers.
