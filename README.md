@@ -33,6 +33,14 @@ your data is un-recoverable. We also do not log IP, as we also follow the no dox
 
 ---
 
+### 📄 Policies
+
+If you make the server unplayable for others, we will make the server unplayable for you.
+We will tolerate and not moderate hacking, toxicity, grief, and other things that aren't doxxing.
+(If you have any more suggestions for policies email me or leave it in the discussions tab.)
+
+---
+
 ### 🤔 Why this was made
 
 I made it by myself because I was sick of high ping on servers I could get doxxed on, I still own and maintain both BookShelf, BlackHammerMC, and another project. I also just wanted to play with my friends, but some people do not have the materials, or knowledge like me to do the same. That is why this server exists and is public. 
@@ -69,3 +77,7 @@ Hint: We are looking for more things to add to this page here.
 
 Thank you \_JavaJuice_ for being the pre-alpha, and main tester for the server.
 Thank you ItzVoru, sidthesquid13, hypo133, and ReelyCoolDude for being beta testers.
+
+
+
+
