@@ -1,7 +1,12 @@
-# 🚀 Artemis
+ # <img width="32" height="32" alt="server-icon" src="https://github.com/user-attachments/assets/acbfc6eb-0cd0-4f67-9728-f2c4c74e5a60" /> BookShelf 2 
+##### (Formerly Artemis I)
+
+---
+
 ### General
 
-If you are seeing this, you probably joined the server Artemis! The free to play server with just one rule, and that is no doxxing. You can do almost anything you want, like griefing, fighting, or cheating on this server without the fear of being doxxed. 
+
+If you are seeing this, you probably joined the server BookShelf! The free to play server with just one rule, and that is no doxxing. You can do almost anything you want, like griefing, fighting, or cheating on this server without the fear of being doxxed. 
 **IF you do spot someone doxxing someone else, get proof and send it to blackhammermc.2025@protonmail.com as this is the official email we use.** We need proof because we **DO NOT** keep log files. We do **NOT** make money or put in money to the server, this is just me maintaning this for fun.
 
 ---
@@ -30,7 +35,7 @@ your data is un-recoverable. We also do not log IP, as we also follow the no dox
 
 ### 🤔 Why this was made
 
-I made it by myself because I was sick of high ping on servers I could get doxxed on, I still own and maintain both Artemis, BlackHammerMC, and another project. I also just wanted to play with my friends, but some people do not have the materials, or knowledge like me to do the same. That is why this server exists and is public. 
+I made it by myself because I was sick of high ping on servers I could get doxxed on, I still own and maintain both BookShelf, BlackHammerMC, and another project. I also just wanted to play with my friends, but some people do not have the materials, or knowledge like me to do the same. That is why this server exists and is public. 
 
 ![minecraft-minecraft-steve](https://github.com/user-attachments/assets/6a8fadb8-f5b8-49a8-8721-40849559fd9f)
 
