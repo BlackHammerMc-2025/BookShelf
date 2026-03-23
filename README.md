@@ -13,7 +13,7 @@ If you are seeing this, you probably joined the server BookShelf! The free to pl
 
 ### 📊 More about how we use **your data**: 
 We do keep logs accessible to our dev, but after we stop and restart the server every few days... 
-your data is un-recoverable. We also do not log IP, as we also follow the no doxx rule!
+your data is un-recoverable. We also do not log IP, as we follow a strict rule to collect as little info.
 
 ![kaczka-kaczuszka](https://github.com/user-attachments/assets/d15d255f-57f9-487c-9ae6-1e6156bb0041)
 
