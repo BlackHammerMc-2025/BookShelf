@@ -37,7 +37,14 @@ your data is un-recoverable. We also do not log IP, as we follow a strict rule t
 
 If you make the server unplayable for others, we will make the server unplayable for you.
 We will tolerate and not moderate hacking, toxicity, grief, and other things that aren't doxxing.
+We do not encourage hate speech, illegal acts, or anything similar.
 (If you have any more suggestions for policies email me or leave it in the discussions tab.)
+
+---
+
+### 🐜 Bug Reporting
+
+Email the issue to blackhammermc.2025@protonmail.com with some proof, E.g Video, screenshot, etc.
 
 ---
 
