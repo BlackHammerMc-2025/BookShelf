@@ -1,4 +1,4 @@
- # <img width="32" height="32" alt="server-icon" src="https://github.com/user-attachments/assets/acbfc6eb-0cd0-4f67-9728-f2c4c74e5a60" /> BookShelf 2 
+<a href="https://minecraftservers.org/server/685623" target="_blank"><img src="https://status.minecraftservers.org/classic/685623.png" alt="BookShelf Minecraft server" width="540" height="90" /></a>
 ##### (Formerly Artemis I)
 
 ---
