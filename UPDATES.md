@@ -7,3 +7,5 @@
 2026-3-26 4:20 PM: I can now see user's IP in the console incase I ever need to IP ban someone.
 
 2026-3-29 12:38 PM: Users will have to re-register as we switched login mods.
+
+2026-3-29 1:13 PM: Switched back to simple login.
