@@ -11,3 +11,5 @@
 2026-3-29 1:13 PM: Switched back to simple login.
 
 2026-4-5 6:45 PM: Added bedrock support.
+
+2026-4-5 7:03 PM: Removed bedrock support.
