@@ -9,3 +9,5 @@
 2026-3-29 12:38 PM: Users will have to re-register as we switched login mods.
 
 2026-3-29 1:13 PM: Switched back to simple login.
+
+2026-4-5 6:45 PM: Added bedrock support.
