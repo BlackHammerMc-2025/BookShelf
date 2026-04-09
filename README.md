@@ -10,6 +10,7 @@
 
 If you are seeing this, you probably joined the server BookShelf! The free to play server with just one rule, and that is no doxxing. You can do almost anything you want, like griefing, fighting, or cheating on this server without the fear of being doxxed. 
 **IF you do spot someone doxxing someone else, get proof and send it to blackhammermc.2025@protonmail.com as this is the official email we use.** We need proof because we **DO NOT** keep log files. We do **NOT** make money or put in money to the server, this is just me maintaning this for fun.
+Seed: -8011242611161202923 Version: 1.21.11
 
 ---
 
