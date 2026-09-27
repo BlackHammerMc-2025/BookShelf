@@ -1,6 +1,6 @@
 <img width="468" height="60" alt="banner" src="https://github.com/user-attachments/assets/91867cdd-5f8a-4fe9-8e89-a8e91d20bd61" /> 
 
-##### (Formerly Artemis I)
+##### (Formerly Artemis I) (Some of this information could be incorrect and needs to be corrected, and also has been DISCONTINUED as of September 27 2026 11:45AM AEST. The reason is we were not getting enough people to join and therefore no reason to run this server anymore :( .)
 
 
 ---
@@ -62,7 +62,7 @@ I made it by myself because I was sick of high ping on servers I could get doxxe
 
 ### 🎦 Behind the scenes
 
-The server is so dead simple, a dell optiplex with a laptop fan/stand stuck on the side, that runs Linux Mint XFCE.
+The server is so dead simple, a dell optiplex that runs Linux Mint XFCE.
 https://www.linuxmint.com/edition.php?id=327 
 
 ![linux-tux](https://github.com/user-attachments/assets/2d014664-ed67-4a0d-b568-445673e1455a)
