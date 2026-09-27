@@ -13,3 +13,5 @@
 2026-4-5 6:45 PM: Added bedrock support.
 
 2026-4-5 7:03 PM: Removed bedrock support.
+
+2026-09-27 11:45 AM: Closed server down, semi-permanently.
