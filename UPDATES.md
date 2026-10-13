@@ -15,3 +15,5 @@
 2026-4-5 7:03 PM: Removed bedrock support.
 
 2026-09-27 11:45 AM: Closed server down, semi-permanently.
+
+2026-10-13 9:03 PM: Reopened server under Bookshelf 2.
