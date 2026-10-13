@@ -1,6 +1,6 @@
 <img width="468" height="60" alt="banner" src="https://github.com/user-attachments/assets/91867cdd-5f8a-4fe9-8e89-a8e91d20bd61" /> 
 
-##### (Formerly Artemis I) (Some of this information could be incorrect and needs to be corrected, and also has been DISCONTINUED as of September 27 2026 11:45AM AEST. The reason is we were not getting enough people to join and therefore no reason to run this server anymore :( .)
+##### (Formerly Artemis I) (Some of this information could be incorrect and needs to be corrected, and also has been DISCONTINUED as of September 27 2026 11:45AM AEST. The reason is we were not getting enough people to join and therefore no reason to run this server anymore :( .) - Is something I would say if it wasn't Bookshelf 2 now
 
 
 ---
@@ -28,7 +28,7 @@ your data is un-recoverable.
 1. Open Java minecraft
 2. Go to the multiplayer tab
 3. Press add server
-4. Enter the address as _**been-nightlife.gl.joinmc.link**_ exactly
+4. Enter the address as _**gameboy-breach.tun.ply.gg**_ exactly
 5. Press the done button
 
 **Congrats!** you can now join our server, from your server list!
